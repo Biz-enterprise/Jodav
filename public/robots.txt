@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jodavcleaningservice.com.ng/sitemap.xml
